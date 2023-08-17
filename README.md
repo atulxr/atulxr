@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/atul-rathod" target="blank" rel="noreferrer"><img align="center" src="https://brandeps.com/icon-download/L/Linkedin-icon-vector-13.svg" alt="atul-rathod" height="40" width="40" /></a>
 <a href="https://instagram.com/iatulrathod" target="blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="iatulrathod" height="40" width="40" /></a>
 <a href="https://www.behance.net/atul-rathod" target="blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="atul-rathod" height="40" width="40" /></a>
-<a href="https://www.youtube.com/c/iatulrathod" target="blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg" alt="iatulrathod" height="40" width="40" /></a>
+<a href="https://www.youtube.com/c/iatulrathod" target="blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/79/YouTube_social_red_square_%282017%29.svg" alt="iatulrathod" height="40" width="40" /></a>
 <a href="https://discord.gg/atul.xd" target="blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg" alt="atul.xd" height="40" width="40" /></a>
 </p>
 
