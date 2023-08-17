@@ -18,7 +18,7 @@
 <a href="https://instagram.com/iatulrathod" target="blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="iatulrathod" height="40" width="40" /></a>
 <a href="https://www.behance.net/atul-rathod" target="blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="atul-rathod" height="40" width="40" /></a>
 <a href="https://www.youtube.com/c/iatulrathod" target="blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iatulrathod" height="40" width="40" /></a>
-<a href="https://discord.gg/atul.xd" target="blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="atul.xd" height="40" width="40" /></a>
+<a href="https://discord.gg/atul.xd" target="blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png" alt="atul.xd" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
